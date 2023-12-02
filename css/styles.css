@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(59, 59, 59);
+  color: white;
+}
+
+.separador {
+  height: 1000px;
+  width: 100%;
+  border: 5px solid red;
+}
